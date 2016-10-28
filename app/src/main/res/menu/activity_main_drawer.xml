@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/nav_table"
+            android:icon="@drawable/ic_table_24dp"
+            android:title="Расписание" />
+
+    <item android:title="Дополнительная информация">
+        <menu>
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/ic_info_outline__24dp"
+                android:title="О приложении" />
+
+        </menu>
+    </item>
+
+</menu>
